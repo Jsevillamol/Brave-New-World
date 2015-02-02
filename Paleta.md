@@ -11,3 +11,4 @@ Prohibiciones:
 -------------
 * Nada de leer mentes ni manipulación mágica de ninguna clase. De hecho, nada de magia mental.
 * Lo que muere permanece muerto.
+* Nada de magia impredecible o errática.
