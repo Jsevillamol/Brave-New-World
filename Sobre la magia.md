@@ -17,7 +17,7 @@ Tiempo | Sonido | Conexión
 
 @@@@@@@@@@@@@ (pongo esto para que se note el cambio)
 
-Me gustaría saber si la cantidad afecta a la sigaldría. Me refiero a que si nuestros muggles fordistas podrían superrar hasta al mejor hechicero de todo el universo.
+Me gustaría saber si la cantidad afecta a la sigaldría. Me refiero a que si nuestros muggles fordistas podrían superar hasta al mejor hechicero de todo el universo.
 
 @@@@@@@@@@@@@
 
