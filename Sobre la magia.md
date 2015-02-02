@@ -15,6 +15,14 @@ Movimiento | Chispa | Memoria
 Magia | Refrigerante | Cifrado
 Tiempo | Sonido | Conexión
 
+@@@@@@@@@@@@@ (pongo esto para que se note el cambio)
+
+Me gustaría saber si la cantidad afecta a la sigaldría. Me refiero a que si nuestros muggles fordistas podrían superrar hasta al mejor hechicero de todo el universo.
+
+@@@@@@@@@@@@@
+
+
+
 ##Simpatías
 Anteriormente un secreto celosamente guardado por los magos, hoy día una rama más de la ciencia. Se valen de la infusión ingeniosa de las hipotéticas partículas táumicas en el ambiente para manipular la física a su antojo.
 
