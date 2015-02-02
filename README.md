@@ -9,6 +9,8 @@ Inpirada en la partida de rol que llevo tiempo jugando. Pondré muchos de los re
 - [x] Crear los primeros periodos
 - [ ] Ponernos de acuerdo en nuestras normas para Microscope
 - [x] Primera lente
+- [ ] Primer legado
+- [x] Primer artículo de la wiki
 
 ##Recursos:
 * [Mapa de Teluria](https://a.tiles.mapbox.com/v4/jsevillamol.i93m7klp/page.html?access_token=pk.eyJ1IjoianNldmlsbGFtb2wiLCJhIjoiSm1WUHlHdyJ9.EM6-CuJF4jRisGjpiaxa5A#7/73.524/86.968)
