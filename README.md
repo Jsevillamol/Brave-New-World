@@ -6,8 +6,9 @@ Inpirada en la partida de rol que llevo tiempo jugando. Pondré muchos de los re
 ##To do list:
 - [x] Elegir una semilla
 - [x] Crear la paleta de ingredientes
-- [ ] Crear los primeros periodos
+- [x] Crear los primeros periodos
 - [ ] Ponernos de acuerdo en nuestras normas para Microscope
+- [ ] Primeras lentes
 
 ##Recursos:
 * [Mapa de Teluria](https://a.tiles.mapbox.com/v4/jsevillamol.i93m7klp/page.html?access_token=pk.eyJ1IjoianNldmlsbGFtb2wiLCJhIjoiSm1WUHlHdyJ9.EM6-CuJF4jRisGjpiaxa5A#7/73.524/86.968)
@@ -16,4 +17,4 @@ Inpirada en la partida de rol que llevo tiempo jugando. Pondré muchos de los re
 ##Agradecimientos:
 * A mi grupo de rol, por su apoyo infatigable.
 * A Brandon Sanderson, por enseñarme las leyes de la magia.
-* A Patrick Rothfuss, porque admitámoslo, mucho de lo que hay aquí es un Ripoff de sus libros.
+* A Patrick Rothfuss, porque admitámoslo, mucho de lo que hay aquí es un *ripoff* de sus libros.
