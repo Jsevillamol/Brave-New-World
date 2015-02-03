@@ -1,7 +1,7 @@
 Existen cuatro grandes disciplinas mágicas reconocidas por la Universidad de Telos: alquimia, sigaldría, simpatías y nominaciones. Las dos primeras están al alcance de todo el mundo con interés en el mundo de lo arcano, pues sólo requieren una sencilla *infusión*. En contraste, el manejo de las simpatías o de las nominaciones se adquiere tras años de estudio y práctica.
 
 ##Alquimia
-Conocida desde los tiempos antiguos por curanderos. Se aprovecha de los *principios* embebidos en distintas sustancias para transferirlos a pociones y ungüentos. Todos los principios son magias sutiles, cuyos efectos muchas veces se ven aumentados por el sesgo de confirmación.
+Conocida desde los tiempos antiguos por curanderos. Se aprovecha de los *principios* embebidos en distintas sustancias para transferirlos a pociones y ungüentos.
 
 ##Forja
 Una variante de la alquimia, que confiere a objetos cotidianos las propiedades de los *principios alquímicos*. Un objeto infundido mediante la forja se conoce por el nombre de *fabrial*. Para mantener sus propiedades mágicas, los fabriales succionan de manera constante la energía táumica ambiental, interfiriendo con las simpatías y glifos de alimentación activa.
