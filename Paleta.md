@@ -8,6 +8,7 @@ Ingredientes:
 * La magia es otra rama de la ciencia
 * Las leyes físicas ( teoremas de conservación y similares) varían periodicamente o en función de algo
 * Hay más especies inteligentes ( unos bichitos que viven en sociedades dentro de las nubes, mapaches, piedras, ese estilo)
+* Hronir. Quiero crear una rama de la magia que utilice este nombre.
 
 Prohibiciones:
 -------------
