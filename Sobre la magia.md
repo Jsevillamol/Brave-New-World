@@ -14,14 +14,11 @@ Runas de entrada | Runas de salida | Especiales
 Movimiento | Chispa | Memoria
 Magia | Refrigerante | Cifrado
 Tiempo | Sonido | Conexión
+Contacto | Momento lineal | Sifón
 
-@@@@@@@@@@@@ (pongo esto para que se note el cambio)
+Es posible combinar runas de salida de un mismo tipo para potenciar el efecto final de un glifo, con un consecuente incremento en la energía de infusión necesaria para activar dicho glifo. También es posible asociar varios glifos a un mismo objeto para el mismo efecto, pero aumentaría el tiempo de elaboración.
 
-Me gustaría saber si la cantidad afecta a la sigaldría. Me refiero a que si nuestros muggles fordistas podrían superar hasta al mejor hechicero de todo el universo.
-
-@@@@@@@@@@@@
-
-
+En concreto, la sigaldría tiene una eficiencia táumica del 20%-30%, mientras que las simpatías rozan el 80%. Por otra parte, los glifos actúan como reservas táumicas, lo que hipotéticamente permite conseguir efectos mucho mayores que las otras disciplinas mágicas si uno dedicara el suficiente tiempo y esfuerzo.
 
 ##Simpatías
 Anteriormente un secreto celosamente guardado por los magos, hoy día una rama más de la ciencia. Se valen de la infusión ingeniosa de las hipotéticas partículas táumicas en el ambiente para manipular la física a su antojo.
