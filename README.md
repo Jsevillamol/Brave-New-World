@@ -17,7 +17,7 @@ Inpirada en la partida de rol que llevo tiempo jugando. Pondré muchos de los re
 - [ ] 10 eventos/eras
 - [ ] 10 lentes
 - [ ] 10 propuestas en referencia a una lente
-- [ ] 10 artículos en la wiki
+- [x] 10 artículos en la wiki
 - [ ] 10 legados
 - [ ] 10 referencias a un legado
 
