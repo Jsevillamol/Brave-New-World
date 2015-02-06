@@ -9,6 +9,7 @@ Era de la Forja
 El despertar
 ============
 El descubrimiento de las simpatías crea una clase social, los magos, que se yergue por encima del resto.
+* Felix Gavan desarrolla la simpatía ferromagnética. La increíble ventaja militar que otorga a su grupo, los feroquimistas de Citadel, le permite construir un sólido reino, Argental.
 * Fundación de la [Universidad] (https://github.com/Jsevillamol/Brave-New-World/wiki/Universidad).
 
 La nueva era
