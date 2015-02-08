@@ -19,6 +19,7 @@ Prohibiciones:
 * Nada de magia impredecible o errática.
 * Viajes en el tiempo (al menos ninguno satisfactorio)
 * Genios que dan tres deseos o equivalentes
+* [El video lo dice todo](https://www.youtube.com/watch?v=vWxZm8WjlI8)
 
 
 
