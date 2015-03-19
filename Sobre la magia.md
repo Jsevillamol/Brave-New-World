@@ -1,7 +1,24 @@
 Existen cuatro grandes disciplinas mágicas reconocidas por la Universidad de Telos: alquimia, sigaldría, simpatías y nominaciones. Las dos primeras están al alcance de todo el mundo con interés en el mundo de lo arcano, pues sólo requieren una sencilla *infusión*. En contraste, el manejo de las simpatías o de las nominaciones se adquiere tras años de estudio y práctica.
 
 ##Alquimia
-Conocida desde los tiempos antiguos por curanderos. Se aprovecha de los *principios* embebidos en distintas sustancias para transferirlos a pociones y ungüentos.
+Conocida desde los tiempos antiguos por curanderos. Las partículas táumicas tienden a formar distintas estructuras, llamadas *principios*, en presencia de distintos *componentes somáticos*. Los *principios* se pueden activar mediante la infusión táumica, y una vez infundidos crean las sustancias cuya forma han cobrado usando *taumios* refinados. Este mecanismo se llama *hronir*. Simplificando, los *principios* son moldes, que cuando se activan empiezan a absorber material y crear sustancias.
+
+Los *principios* activos necesitan taumios para empezar el *hronir*, por lo que necesitan ser ingeridos o entrar de otra manera en contacto con organismos biotáumicos.
+
+###Principios cotidianos
+Generan sustancias naturales. Una vez consumido el principio, el cuerpo del consumidor se verá inundado por un torrente de estas sustancias. Eventualmente, el cuerpo induce una disociación hrónica para parar el efecto.
+
+Ejemplos:
+Principio fisiologico de fuerza
+Genera adrenalina.
+
+
+
+###Principios exóticos
+En ocasiones, las copias imperfectas generadas por el hronir dan lugar a sustancias imposibles de replicar con procedimientos mundanos.
+
+Ejemplos:
+???
 
 ##Forja
 Una variante de la alquimia, que confiere a objetos cotidianos las propiedades de los *principios alquímicos*. Un objeto infundido mediante la forja se conoce por el nombre de *fabrial*. Para mantener sus propiedades mágicas, los fabriales succionan de manera constante la energía táumica ambiental, interfiriendo con las simpatías y glifos de alimentación activa.
@@ -27,7 +44,11 @@ En concreto, la sigaldría tiene una eficiencia táumica del 20%-30%, mientras q
 Anteriormente un secreto celosamente guardado por los magos, hoy día una rama más de la ciencia. Se valen de la infusión ingeniosa de las hipotéticas partículas táumicas en el ambiente para manipular la física a su antojo.
 
 Ejemplos:
-•	Gravitatoria
+###Gravitatoria
+Manipula los lazos gravitacionales que atan una masa al suelo, atenuándolos.
+Rango: 10 metros
+Potencia: Puede contrarrestar de manera efectiva hasta unos 80 kilopondios de peso, suficiente para dejar a un humano en 0G.
+
 •	Ferromagnética
 •	Electromotriz
 •	Normal
