@@ -29,3 +29,4 @@ Inpirada en la partida de rol que llevo tiempo jugando. Pondré muchos de los re
 * A mi grupo de rol, por su apoyo infatigable.
 * A Brandon Sanderson, por enseñarme las leyes de la magia.
 * A Patrick Rothfuss, porque admitámoslo, mucho de lo que hay aquí es un *ripoff* de sus libros.
+* A Borges, de cuyo *Tlön, Uqbar, Orbis Tertius* surgió la inspiración que nos llevó a crear un nuevo mundo.
