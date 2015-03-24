@@ -87,7 +87,7 @@ Según descubrimientos recientes, existen esencias cuya correspondiente materia 
 Estas esencias tienen la potencialidad de pertenecer a cualquier tipo. Por tanto, sus posibilidades son ilimitadas. (símil: las células madre pueden convertirse en otros tipos de célula, no está predefinido, creo).
 Llega un momento (?) en el cuál la esencia comienza a estructurarse. Pocas veces consigue una estructura especialmente compleja, por lo que tiende a dispersarse y a formar parte de la naturaleza. Sin embargo, es una forma de energía que interactúa con el entorno y puede provocar fenómenos cuyas explicaciones científicas no han sido halladas todavía.
 
-	###Quinta forma de magia:
+	##Quinta forma de magia:
 Una parte de los investigadores se encargan de descubrir cómo utilizar esta energía y están pendientes de analizar si incorporarla como una quinta rama de la magia (relacionarla con las simpatías?). Todavía se desconoce cómo utilizarla puesto que es muy desestructurada y variable, engloba muchos tipos y sus formas de controlarlas son muy dispares.
 
 Estas esencias pueden estructurarse de formas extrañas y puede dar lugar a nuevos compuestos cuyas propiedades se están estudiando.
@@ -96,7 +96,7 @@ Algunas esencias muy evolucionadas consiguen adoptar estructuras de gen, e inclu
 Es prácticamente imposible que consigan estructurarse tanto como para convertirse en un ser humano.
 
 Peeeeeeeeeeeeeeeeeeeeeeeeeroo (se me está yendo la olla demasiado. No es muy creíble, pero por si acaso:)
-	###Seres deslimitados
+	##Seres deslimitados
 En la reproducción humana, se han dado casos (poquíiiiiiiiiiiiiiiiiiisimos) en los ambos gametos han sido incapaces de transmitir el contenido genético, produciendo cigotos con la potencialidad de adoptar cualquier aspecto. Al nacer, la mayor parte de los neonatos es incapaz de definirse y se desintegran en esencia desustructurada o se fusionan con otra materia a la que replican. 
 Existen casos de bebés que consiguen adoptar la forma humana, y a lo largo del crecimiento se estabilizan y llegan a crearse un contenido genético concreto. 
 Estos seres humanos terminan creyéndose como tales, y sus limitaciones terminan siendo iguales a las del resto, salvo algunas excepciones.
