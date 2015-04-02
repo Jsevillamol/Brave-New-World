@@ -10,7 +10,7 @@ El despertar
 ============
 El descubrimiento de las simpatías crea una clase social, los magos, que se yergue por encima del resto.
 
-##  Epoca Oscura
+**Epoca Oscura**
    * Con el descubrimiento de la simpatía surgen los llamados nigromantes que rápidamente empiezan a hacerse con el poder en    todo el continente sembrando sin número horrores por toda la tierra . La época oscura acaba con la aparición de la [Ley       Gris](https://github.com/Jsevillamol/Brave-New-World/wiki/Ley-Gris).
 
 * Felix Gavan desarrolla la simpatía ferromagnética. La increíble ventaja militar que otorga a su grupo, los feroquimistas de Citadel, le permite construir un sólido reino, Argental.
