@@ -29,8 +29,22 @@ Cuando te sientas cómodo infundiendo, te animo a que comiences a experimentar.
 Nota además cómo la infusión puede penetrar la mayoría de materiales sin problema, y que no causa efectos hasta que llega al destino pensado: ¿por qué ocurre esto?
 
 ##Infusión aplicada: alquimia
+Las partículas tau forman estructuras que se conocen como principios. Cuando el maná interactúa con un principio, se transforma en otros tipos de materia. Distintos principios darán lugar a distintas sustancias. Para una ampliación en el tema, consulta [Alquimia y hronir].
+
+Ejercicio propuesto: Consigue un vaso y llénalo con agua hasta la mitad. Espera 5-10 minutos para que se estabilicen los principios del agua, y después procede a infundirlo. Trata de desbordar el vaso usando tu maná.
 
 ##Infusión aplicada: sigaldría
+Los glifos convierten las partículas tau del ambiente en distintas formas de energía. Para que un glifo comience a funcionar, tiene que ser infundido.
+
+La infusión se realiza de manera idéntica a la infusión de un principio alquímico. Trata de cubrir con maná la totalidad del glifo. Si tras varios intentos no funciona, asegúrate de que el glifo está bien construído y que no tiene fugas de maná en ninguna de sus runas.
+
+La fabricación de glifos cae fuera del alcance de este texto. Si quieres practicar la infusión de glifos, pídele ayuda a algún sigaldrista. Si necesitas más información acerca de la creación de glifos, busca [Introducción a la sigaldría].
 
 ##Infusión aplicada: simpatía
+Aquí comienza la auténtica dificultad de la infusión. Para lograr efectos simpáticos, el mago ha de tener un modelo conceptual del mundo claro. Y sólo una vez ha logrado esto puede plantearse hacer la infusión necesaria.
 
+Dejadme reformular esta frase, porque su importancia la requiere. En la alquimia y sigaldría infundes cosas palpables, que tu mente no tiene problema imaginando. En la simpatía, infundes conceptos que imaginas y que solo puedes percibir indirectamente.
+
+Si preguntas a un simpatista gravitatorio cómo realizar su simpatía, te dirá que imagines "flechas" saliendo de un cuerpo hacia la tierra. Y que luego las infundas. Todo el entrenamiento detrás de una simpatía radica en la dificultad de adquirir las imágenes mentales adecuadas para realizar la infusión. Te invito a probar a realizar la infusión simpática que acabo de describir, y a fracasar estrepitosamente.
+
+Una introducción exhaustiva a la infusión aplicada a simpatía se encuentra en "Infusión avanzada", de este mismo autor. No obstante, no recomiendo leerlo hasta haber desarrollado una gran resistencia mágica practicando los ejercicios de este libro. Cualquier libro introductorio de física y de matemáticas son también lecturas obligadas.
