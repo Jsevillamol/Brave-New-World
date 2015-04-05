@@ -29,3 +29,10 @@ Para Lando voy a elegir una especialidad en alquimia, que le permita preparar do
 La segunda especialidad va a ser "Gran estamina", que va a servir para darle un +2 cuando se ponga a prueba su resistencia.
 
 Y la tercera será "Mercado negro alquímico", que va a funcionar como un +2 a contactos cuando esté intentando reunir material para pociones.
+
+##Consecuencias
+Los personajes tienen tres casillas de consecuencias (con nombres: leve, moderada y grave), que usaran para absorber daños físicos y mentales. Son "los puntos de vida" de otros sistemas. Se pueden aumentar mediante especialidades. Cuando tienes que usar una consecuencia para seguir jugando, escribes un aspecto negativo en la casilla correspondiente.
+
+Por ejemplo, si Lando es herido durante un tiroteo, escribiré en la casilla de consecuencia grave "Desangrándose". Cuando una consecuencia entra en juego, quien la inflije gana una invocación gratuita sobre ella, y puede ser invocada por cualquiera pagando FP.
+
+Al contrario que en Fate estándar, no usamos estrés.
