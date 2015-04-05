@@ -1,15 +1,18 @@
-Asumo que os habéis familiarizado con Microscope antes de leer este archivo.
-La partida seguirá los conceptos básicos del juego, pero creo conveniente alterar las mecánicas para sacar provecho a la infraestructura de GitHub. Asi que propongo las siguientes home-rules:
+¡Bienvenido a BNW!
 
-1. No hay turnos. Cada cual puede aportar lo que quiera y cuando quiera. Está bien hacer lurking, pero colaborar es aún mejor.
-2. ¡Aprovechar los recursos a vuestra disposicón! En Microscope solo tenemos una línea temporal. ¡Aquí contamos con una wiki! Sugiero usarla para registrar personajes, organizaciones, etc. Edit: usar la wiki fue una terrible idea. Usemos archivos subidos al repo de aquí en adelante, para poder controlar mejor los cambios y que quede todo bien organizado.
-3. Todo está sujeto a debate. Utilizad los comentarios sobre commits para preguntar las dudas que tengáis sobre cualquier contribución.
+Primero, un poco de historia. BNW nace inspirado directamente por [Microscope](http://www.lamemage.com/microscope/), un juego de creación de historias colaborativas. No es necesario conocer las normas de Microscope para participar en este repositorio; todos los detalles necesarios están explicados en los artículos de la Wiki.
 
-Las partes de éste repositorio:
+Un detalle importante: cada cual puede aportar lo que quiera y cuando quiera. Está bien hacer lurking, pero colaborar es aún mejor. ¡No dejes que la vergüenza o la falta de ganas nos prive de tus ideas maravillosas!
+
+A continuación describiremos las partes de las que consta este proyecto:
 ##El repo en sí
 ¡El corazón palpitante de BNW! Todo el contenido *in game* está aquí en el repo. Sube lo que quieras aportar aquí, preferiblemente en una branch a no ser que estés seguro de que lo que escribes va a ser bien recibido en general. Encontrarás los siguientes subapartados:
 ###[La paleta](https://github.com/Jsevillamol/Brave-New-World/blob/master/Paleta.md)
-Esta es la idea central o semilla de la que nació BNW, una lista de cosas que quieres que aparezcan en el juego y una lista de cosas que esta prohibido que aparezcan en el juego.
+Esta es la idea central (semilla) de la que nació BNW, una lista de cosas que quieres que aparezcan en el juego (ingredientes) y una lista de cosas que esta prohibido que aparezcan en el juego (prohibiciones).
+
+Las ideas recogidas en la paleta son generalmente tópicos abstractos de la literatura. Determinan el tono general de BNW.
+
+¿Quieres añadir algo a la paleta? ¡Adelante! De hecho, si eres un nuevo jugador te animo a que empieces tu viaje por Teluria anotando un ingrediente y una prohibición.
 
 ###[La línea temporal](https://github.com/Jsevillamol/Brave-New-World/blob/master/Brave%20New%20World.md)
 Un eje cronológico que recoje lo sucedido en BNW. Recoje Eras y Eventos. Una Era es el equivalente a una era histórica, y en cada una se introduce un nuevo sistema de magia, como indica la [paleta](https://github.com/Jsevillamol/Brave-New-World/blob/master/Paleta.md).
