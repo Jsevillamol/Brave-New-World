@@ -5,7 +5,7 @@ Inpirada en la partida de rol que llevo tiempo jugando. Pondré muchos de los re
 
 ##¡Quiero contribuír!
 ¡Fantástico! ¡Te damos la bienvenida con los brazos abiertos!
-Para empezar, leete las [reglas](https://github.com/Jsevillamol/Brave-New-World/blob/master/Reglas.md).
+Para empezar, leete las [reglas](https://github.com/Jsevillamol/Brave-New-World/wiki/P%C3%A1gina-Principal).
 
 El repositorio utiliza para funcionar una versión propia de Microscope, un juego de wordbuilding colaborativo al que te recomiendo encarecidamente que le eches un vistazo. En nuestras partidas de rol usamos también una versión propia de FATE.
 Nota que hay dos branches en el proyecto. Master es la versión estable que usamos para las partidas, y te pido que no edites esta parte si no sabes lo que haces; crea tu propia branch cuando estés experimentando o añadiendo ideas totalmente nuevas.
@@ -16,7 +16,7 @@ Por cierto, el uso de Markdown es fundamental. Si no sabes lo que es, consulta [
 
 Algunas ideas para colaborar:
 ----
-1. Añade un personaje. Sigue las intrucciones de creación de personajes (coming soon).
+1. Añade un personaje.
 2. Añade un evento a la línea temporal.
 4. Escribe alguna historia explicando en detalle algún evento.
 5. Crea un nuevo sistema de magia. O aún mejor, refina alguno de los que ya existen.
