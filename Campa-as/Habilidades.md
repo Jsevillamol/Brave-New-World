@@ -36,8 +36,11 @@ Moverse rápido y exhibir unos reflejos eléctricos: esa es la esencia de esta h
 #Sociales
 Me encanta la interacción social en un juego de rol. Después de todo, es lo que le hace distinto de un videojuego: las posibilidades creativas para desarrollar la historia. Y en eso son claves las siguientes habilidades. 
 
-##Persuasión/Provocar
-Convence a los NPCs de tus mentiras (o verdades) y crea aspectos emocionales negativos.
+##Persuasión
+Convence a los NPCs de tus mentiras (o verdades).
+
+##Provocar
+Crea aspectos emocionales negativos. 
 
 ##Empatía
 Sirve para crear aspectos emocionales positivos.
@@ -64,7 +67,7 @@ Representa la capacidad adquisitiva y las habilidades comerciales del personaje.
 Esto representa la fama de un personaje, y como de posible es que encuentre personajes dispuestos a ayudarle.
 
 ##Supervivencia
-Recoge las habilidades de boy-scout necesarias obtener lo que necesitas de la naturaleza.
+Recoge las habilidades de boy-scout necesarias para obtener lo que necesitas de la naturaleza.
 
 #Miscelanea:
 ##Ladronería
