@@ -45,6 +45,6 @@ Aquí comienza la auténtica dificultad de la infusión. Para lograr efectos sim
 
 Dejadme reformular esta frase, porque su importancia la requiere. En la alquimia y sigaldría infundes cosas palpables, que tu mente no tiene problema imaginando. En la simpatía, infundes conceptos que imaginas y que solo puedes percibir indirectamente.
 
-Si preguntas a un simpatista gravitatorio cómo realizar su simpatía, te dirá que imagines "flechas" saliendo de un cuerpo hacia la tierra. Y que luego las infundas. Todo el entrenamiento detrás de una simpatía radica en la dificultad de adquirir las imágenes mentales adecuadas para realizar la infusión. Te invito a probar a realizar la infusión simpática que acabo de describir, y a fracasar estrepitosamente.
+*Grosso modo*, podemos entender que las partículas tau existen en varios estados simultaneamente. Mediante la infusión, es posible fijar uno de estos estados, logrando de forma efectiva que la partícula tau adquiera ciertas propiedades físicas.
 
 Una introducción exhaustiva a la infusión aplicada a simpatía se encuentra en "Infusión avanzada", de este mismo autor. No obstante, no recomiendo leerlo hasta haber desarrollado una gran resistencia mágica practicando los ejercicios de este libro. Cualquier libro introductorio de física y de matemáticas son también lecturas obligadas.
