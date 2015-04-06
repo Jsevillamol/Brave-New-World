@@ -29,7 +29,7 @@ Cuando te sientas cómodo infundiendo, te animo a que comiences a experimentar.
 Nota además cómo la infusión puede penetrar la mayoría de materiales sin problema, y que no causa efectos hasta que llega al destino pensado: ¿por qué ocurre esto?
 
 ##Infusión aplicada: alquimia
-Las partículas tau forman estructuras que se conocen como principios. Cuando el maná interactúa con un principio, se transforma en otros tipos de materia. Distintos principios darán lugar a distintas sustancias. Para una ampliación en el tema, consulta [Alquimia y hronir].
+Las partículas tau forman estructuras que se conocen como principios. Cuando el maná interactúa con un principio, se transforma en otros tipos de materia. Distintos principios darán lugar a distintas sustancias. Para una ampliación en el tema, consulta [Alquimia y hronir](https://github.com/Jsevillamol/Brave-New-World/blob/master/Magia/Alquimia%20y%20Hr%C3%B6nir.md).
 
 Ejercicio propuesto: Consigue un vaso y llénalo con agua hasta la mitad. Espera 5-10 minutos para que se estabilicen los principios del agua, y después procede a infundirlo. Trata de desbordar el vaso usando tu maná.
 
