@@ -2,13 +2,13 @@
 
 #Introducción
 
-*País al sur de Teluria, cuya tierra es pobre y yerma pero de costumbres antiguas.
-*Se mantiene apartado de las intrigas políticas.
-*El país está gobernado por un rey, pero este no ejerce su poder en todo el territorio.
-*Sociedad feudal, estable pero descentralizada, que lo convierte en un país poco habitado.
-*Ciencia relativemente subeditada a la magia, centrada en la biología y practicada en monasterios.
-*Su mayor logro es descubrir algo parecido a la teoría de la evolución, a partir de la taxonomía.
-*La magia que se practica es chamánica, centrada en rituales, y ligada a la religión, que rinde culto a la naturaleza.
+* País al sur de Teluria, cuya tierra es pobre y yerma pero de costumbres antiguas.
+* Se mantiene apartado de las intrigas políticas.
+* El país está gobernado por un rey, pero este no ejerce su poder en todo el territorio.
+* Sociedad feudal, estable pero descentralizada, que lo convierte en un país poco habitado.
+* Ciencia relativemente subeditada a la magia, centrada en la biología y practicada en monasterios.
+* Su mayor logro científico es deducir algo parecido a la teoría de la evolución, a partir de la taxonomía.
+* La magia que se practica es chamánica, centrada en rituales, y ligada a la religión, que rinde culto a la naturaleza.
 
 #Historia
 
